@@ -1,0 +1,12 @@
+[submodule "tests/ryu"]
+	path = tests/ryu
+	url = https://github.com/ulfjack/ryu.git
+[submodule "tests/fmt"]
+	path = tests/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "benchmark"]
+	path = benchmark
+	url = https://github.com/google/benchmark.git
+[submodule "tests/benchmark"]
+	path = tests/benchmark
+	url = https://github.com/google/benchmark.git
